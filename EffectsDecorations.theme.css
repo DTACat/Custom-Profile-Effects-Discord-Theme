@@ -16,24 +16,24 @@
 	 * Change the URL below to the link of an image/gif you want to be everyones profile effect
 	 * Defult is set to Ki Detonate
 	 */
-	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/intro.png");
+	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/midnight-celebration/intro.png");
 	/**
 	 * Change the URL below to the link of an image/gif you want to be everyones avatar decoration
 	 * Defult is set to Balance
 	 */
-	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=true");
+	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_77b7b6a740a9451e1ef39c0252154ef8.png?size=240&passthrough=true");
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
-[aria-label*="<unique-username>"], [id="popout_28"] {
+[aria-label*="<.iam_batman>"], [id="popout_28"] {
 	/**
 	 * The URL for the profile effect override this user should have
 	 * Defult is set to Dark Omens
 	 */
-	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");
+	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-18/cyberpunk-uplinkerror/intro.png");
 	/**
 	 * The URL for the avatar decoration override this user should have
 	 * Defult is set to Cat Ears
 	 */
-	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=240&passthrough=true");
+	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_904b1989077c91fca1168d39bfcaa0a4.png?size=240&passthrough=true");
 }
